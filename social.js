@@ -1,1 +1,2 @@
-console.log('socially integrated')
+use strict;
+console.log('socially integrated');
